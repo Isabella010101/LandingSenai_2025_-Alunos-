@@ -243,6 +243,11 @@ footer {
         width: 300px;
     }
 
+    /* main */
+    main .main h1 {
+        font-size: 3rem;
+    }
+
     /* endereço */
     .endereco {
         margin: auto;
